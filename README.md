@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asprajna" alt="asprajna" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://asprajna.github.io/](https://asprajna.github.io/)
+- My Portfolio [https://asprajna.github.io/](https://asprajna.github.io/)
 
 - 📫 How to reach me **asprajna@gmail.com**
 
