@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm A S PRAJNA</h1>
+<br>
 <h3 align="center">A passionate Computer Science Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asprajna&label=Profile%20views&color=0e75b6&style=flat" alt="asprajna" /> </p>
