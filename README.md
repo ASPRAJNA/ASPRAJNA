@@ -1,29 +1,32 @@
-<p>Hi There 👋</p>
-<h2 align="center">
+<p>Hi there 👋</p>
+<h3  align="center" font="40px" color:"red">
 	I'm A S Prajna!
-</h2>
-
-<img align="right" width="200" height="200" src="A_S_Prajna(2).JPG">
-
-
-<h3>A passionate Software Engineer from Goa , an enthusiastic Learner and Developer </h3>
-
-<br/>
-
--   💻 I’m currently Learning :
-                * Mongo
-	    * React js
-                * Node js
-	    * Express 
- 
- - 💫  My hobbies are :
-               * Reading Novels
-               * Music
-               * Watching series
+</h3>
 
 <hr>
-💬 Let's connect:
-- LinkedIn: [A S Prajna](https://www.linkedin.com/in/asprajna/)
+<h3>A passionate Software Engineer from Goa , an enthusiastic Learner and Developer </h3>
+<img align="right" width="250" height="300" src="A_S_Prajna_55154 (2).JPG">
+
+
+💻 I’m currently Learning :
+      <ul>
+      	<li>MongoDB</li>
+        <li>React JS</li>
+	<li>Express JS</li>
+ 	<li>Node JS</li>
+ </ul>
+💫  My hobbies are :
+	<ul>
+      	<li>Reading Novels</li>
+        <li>Watching Series</li>
+	<li>Coding</li>
+ 	<li>Music</li>
+ </ul>
+
+<hr>
+💬 Connection :<br>
+- LinkedIn : (https://www.linkedin.com/in/asprajna/)
+<br>
 - Mail: asprajna@gmail.com
 
 
@@ -32,20 +35,17 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h4 align="center"> Languages-Frameworks-Tools </h4>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=html,cssnodejs,python,javascript,powerbi,express,mongodb,c,java,mysql,flask,django" /><br>
-</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,php,bootstrap,git,c,python,java,androidstudio,mongo,docker,flask,django,nodejs,express,react"  />
+</p>
 
 <br/>
 <hr/>
 
+<h4 align="center">⚡ Stats ⚡</h4>
 
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-| <a href="https://github.com/pavankumar106/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ASPRAJNA&theme=tokyonight&hide=contribs,issues&show_icons=true&hide_border=true&background=false" alt="Pavan's github stats" /></a> | <a href="https://github.com/ASPRAJNA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASPRAJNA&theme=tokyonight&layout=compact&hide_border=true" /></a> |  [![GitHub Streak](https://streak-stats.demolab.com/?user=ASPRAJNA&theme=tokyonight&hide&hide=contribs,issues&show_icons=true&hide_border=true)](https://git.io/streak-stats) |
+| <a href="https://github.com/ASPRAJNA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ASPRAJNA&theme=tokyonight&hide=contribs,issues&show_icons=true&hide_border=true&background=false" /></a> | <a href="https://github.com/ASPRAJNA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASPRAJNA&theme=tokyonight&layout=compact&hide_border=true" /></a> |  [![GitHub Streak](https://streak-stats.demolab.com/?user=ASPRAJNA&theme=tokyonight&hide&hide=contribs,issues&show_icons=true&hide_border=true)](https://git.io/streak-stats) |
 | ------------- | ------------- |------------- |
