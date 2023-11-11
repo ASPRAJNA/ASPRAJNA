@@ -3,7 +3,7 @@
 	I'm A S Prajna!
 </h2>
 
-<img align="right" width="200" height="200" src="">
+<img align="right" width="200" height="200" src="A_S_Prajna(2).JPG">
 
 
 <h3>A passionate Software Engineer from Goa , an enthusiastic Learner and Developer </h3>
