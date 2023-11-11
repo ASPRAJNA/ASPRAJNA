@@ -1,7 +1,7 @@
 <p>Hi there 👋</p>
-<h3  align="center" font="40px" color:"red">
+<h2  align="center" font="40px" color:"red">
 	I'm A S Prajna!
-</h3>
+</h2>
 
 <hr>
 <h3>A passionate Software Engineer from Goa , an enthusiastic Learner and Developer </h3>
