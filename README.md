@@ -1,7 +1,7 @@
 <p>Hi There 👋</p>
-<h1 align="center">
-	I'm+A S+Prajna!
-</h1>
+<h3 align="center">
+	I'm A S Prajna!
+</h3>
 
 <hr>
 <img align="right" width="200" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZxMms5c2dqejhscG1nMTVxaDd6c2wwbGFodGNxZXNuOXp1cGZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
