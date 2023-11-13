@@ -5,7 +5,7 @@
 
 <hr>
 <h3>A passionate Software Engineer from Goa , an enthusiastic Learner and Developer </h3>
-<img align="right" width="250" height="300" src="A_S_Prajna_55154 (2).JPG">
+<img align="right" width="250" height="250" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg">
 
 
 💻 I’m currently Learning :
